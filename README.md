@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00F72B&background=000000&center=true&vCenter=true&width=1000&height=100&lines=JesusCries" alt="JesusCries" />
+<img src="https://github.com/Fedwig/Profile/assets/85858497/07a9aa7d-7afa-4050-904a-c72a9802e0b8" />
 
 <h3 align='center'> root@github:~$ whoami </h3>
 
@@ -38,14 +38,13 @@
 <!-- ![git](./icons/git.png "git") -->
 
 ### 📫 Connect with me
-[![Linkedin](./icons/linkedin.png)](https://linkedin.com/in/wesleywong420/)
-[![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.org/user/114852)
-[![Github](./icons/github.png "Github")](https://github.com/WesleyWong420)
+[![Linkedin](./icons/linkedin.png)](in.com/in/darrshan-rajenderan/)
+[![Github](./icons/github.png "Github")](https://github.com/Fedwig)
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/265481821142122517)
-[![Email](./icons/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
+[![Email](./icons/mail.png "Email")](mailto:darrshanraj24@gmail.com)
 
 ### 📈 Statistics
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyWong420&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Fedwig&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fedwig&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fedwig&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </div>
