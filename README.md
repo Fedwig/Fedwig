@@ -1,38 +1,40 @@
-<!DOCTYPE html>
   <p>
       <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Fedwig&amp;icon=5&amp;color=12" alt=""></a>
   </p>
-<center>
-<body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'">
 
-  <img src="./logos/banner.png">
+  <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; background-color:#1f2020">
+  
+  <p style="text-align:center;">
+      <img src="./logos/banner.png">
+  </p>
+
   </br>
-  <h1 id="-about-"><img src="./logos/logo.png" style="vertical-align: top;"> whoami</h1>
-  <p>
+  <h1 style="text-align:center;" id="-about-"><img src="./logos/logo.png" style="vertical-align: top;"> whoami</h1>
+  <blockquote style="text-align:center">
       💻 Just an average Computer Science major right now.<br>
       <br>
       👨‍💻 Got interested in the concept of ethical hacking, penetration testing and red teaming.<br>
       <br>
       🐱‍💻 Mainly learning on platforms like TryHackMe and HackTheBox while I work on my fundamentals.<br>
-  </p></br>
+  </blockquote></br>
   </br>
 
-  <div>
-      <a title="TryHackMe Profile" href="https://tryhackme.com/p/Fedwig"><img src="https://tryhackme-badges.s3.amazonaws.com/Fedwig.png" alt="TryHackMe"></a>
-       </br>
-      <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/744451"><img src="http://www.hackthebox.com/badge/image/744451" alt="Hack The Box Profile"></a>
+  <div style="text-align:center;">
+      <a title="TryHackMe Profile" href="https://tryhackme.com/p/Fedwig"><img src="https://tryhackme-badges.s3.amazonaws.com/Fedwig.png" alt="TryHackMe"></a></br>
+      </br>
+      <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/744451"><img src="http://www.hackthebox.com/badge/image/744451" alt="Hack The Box Profile"></a></br>
   </div></br>
   </br>
 
-  <h2 id="-socials-">🔗 Socials 🔗</h2>
-  <p>
+  <h2 style="text-align:center;" id="-socials-">🔗 Socials 🔗</h2>
+  <p style="text-align:center;">
       <a href="https://linkedin.com/in/darrshan-rajenderan"><img src="./icons/linkedin.png" alt="LinkedIn"></a> 
       <a href="https://www.discord.com/users/244851370602004510"><img src="./icons/discord.png" alt="Twitch"></a>
       <a href="https://github.com/Fedwig"><img src="./icons/github.png" alt="Twitch"></a> 
   </p></br>
 
-  <h2 id="-achievements-">🏆 Achievements 🏆</h2>
-  <p>
+  <h2 style="text-align:center;" id="-achievements-">🏆 Achievements 🏆</h2>
+  <p style="text-align:center;">
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L8OCUD6391.png"><img src="./icons/tryhackme.png"></a>
       <a href="https://www.credly.com/badges/a6fd817a-0c46-4d56-a215-3c8569f24258?source=linked_in_profile"><img src="./icons/ccna1.png"></a>
       <a href="https://www.credly.com/badges/a6fd817a-0c46-4d56-a215-3c8569f24258?source=linked_in_profile"><img src="./icons/ccna2.png"></a>
@@ -40,8 +42,8 @@
 
   </br>
 
-  <h2 id="-tools-">💻 Tools and Languages 💻</h2>
-  <p>
+  <h2 style="text-align:center;" id="-tools-">💻 Tools and Languages 💻</h2>
+  <p style="text-align:center;">
       <a href="https://github.com/Fedwig"><img src="./icons/kalilinux.png"></a>
       <a href="https://github.com/Fedwig"><img src="./icons/BurpSuite.png"></a>
       <a href="https://github.com/Fedwig"><img src="./icons/bash.png"></a>
@@ -58,26 +60,14 @@
 
   </br>
 
-  <h2 id="-github-stats-">📊 GitHub Stats 📊</h2>
-  <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fedwig&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="">
+  <h2 style="text-align:center;" id="-github-stats-">📊 GitHub Stats 📊</h2>
+  <p style="text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fedwig&amp;theme=great-gatsby&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="">
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fedwig&amp;theme=tokyonight&amp;hide_border=false" alt="">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fedwig&amp;theme=great-gatsby&amp;hide_border=false" alt="">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedwig&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedwig&amp;theme=great-gatsby&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
+      </br>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Fedwig&amp;limit=5&amp;theme=great-gatsby&amp;combine_all_yearly_contributions=true" alt="">
   </p>
-  <h2 id="-github-trophies">🏆 GitHub Trophies</h2>
-  <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=Fedwig&amp;theme=gitdimmed&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
-  </p>
-  <h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
-  <p>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="">
-  </p>
-  <h3 id="-top-contributed-repo">🔝 Top Contributed Repo 🔝</h3>
-  <p>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Fedwig&amp;limit=5&amp;theme=tokyonight&amp;combine_all_yearly_contributions=true" alt="">
-  </p>
-  <hr>
-</body>     
-</center>
+  </body>
