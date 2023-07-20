@@ -21,7 +21,7 @@
 
   <div style="text-align:center;">
       <a title="TryHackMe Profile" href="https://tryhackme.com/p/Fedwig"><img src="https://tryhackme-badges.s3.amazonaws.com/Fedwig.png" alt="TryHackMe"></a>
-      <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/744451"><img src="http://www.hackthebox.com/badge/image/744451" alt="Hack The Box Profile"></a></br>
+      <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/744451"><img src="http://www.hackthebox.com/badge/image/744451" width=249 height=58 alt="Hack The Box Profile"></a></br>
   </div></br>
   </br>
 
