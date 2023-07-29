@@ -1,7 +1,3 @@
-  <p>
-      <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Fedwig&amp;icon=5&amp;color=12" alt=""></a>
-  </p>
-
   <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'">
   
   <p style="text-align:center;">
