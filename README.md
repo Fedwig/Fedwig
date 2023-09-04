@@ -5,7 +5,7 @@
   </p>
 
   </br>
-  <h1 style="text-align:center;" id="-about-"><img src="./logos/logo.png" style="vertical-align: top;"> About Me</h1>
+  <h1 style="text-align:center;" id="-about-"><img src="./logos/logo.png" style="vertical-align: bottom;"> About Me</h1>
   <blockquote style="text-align:center">
       💻 Just an average Computer Science major right now.<br>
       <br>
