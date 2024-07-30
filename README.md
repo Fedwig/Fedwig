@@ -54,17 +54,5 @@
 
       
   </p>
-
   </br>
-
-  <h2 style="text-align:center;" id="-github-stats-">📊 GitHub Stats</h2>
-  <p style="text-align:center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fedwig&amp;theme=great-gatsby&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false" alt="">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fedwig&amp;theme=great-gatsby&amp;hide_border=false" alt="">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedwig&amp;theme=great-gatsby&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
-      </br>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Fedwig&amp;limit=5&amp;theme=great-gatsby&amp;combine_all_yearly_contributions=true" alt="">
-  </p>
   </body>
