@@ -33,6 +33,7 @@
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L8OCUD6391.png"><img src="./icons/tryhackme.png"></a>
       <a href="https://www.credly.com/badges/a6fd817a-0c46-4d56-a215-3c8569f24258?source=linked_in_profile"><img src="./icons/ccna1.png"></a>
       <a href="https://www.credly.com/badges/a6fd817a-0c46-4d56-a215-3c8569f24258?source=linked_in_profile"><img src="./icons/ccna2.png"></a>
+      <a href="https://www.credential.net/1bd7f7ae-9050-4063-9b17-3f4d747d53c6#acc.g6lvciBb"><img src="./icons/oscp.png"></a>
   </p></br>
 
   </br>
